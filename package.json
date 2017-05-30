@@ -1,6 +1,6 @@
 {
-  "name": "ui-router-architecture",
-  "description": "Architecture overview demo for Angular UI-Router",
+  "name": "sample-app-angularjs",
+  "description": "Sample app for UI-Router for AngularJS",
   "version": "1.0.2",
   "scripts": {
     "start": "webpack-dev-server --progress --open",
@@ -16,7 +16,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ui-router/sample-app.git"
+    "url": "https://github.com/ui-router/sample-app-angularjs.git"
   },
   "dependencies": {
     "@uirouter/angularjs": "1.0.10",
